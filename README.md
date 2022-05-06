@@ -3,7 +3,7 @@
 This repo contains various examples for learning and implementing timeouts in
 Node.js. The full tutorial is linked below.
 
-**Tutorial**: [Link to corresponding BetterStack tutorial](https://betterstack.com/community/guides/scaling-nodejs/nodejs-timeouts/).
+**Tutorial**: [A Complete Guide to Timeouts in Node.js](https://betterstack.com/community/guides/scaling-nodejs/nodejs-timeouts/).
 
 ## 🟢 Prerequisites
 
