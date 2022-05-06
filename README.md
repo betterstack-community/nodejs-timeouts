@@ -1,24 +1,27 @@
-# Title of the project
+# A Complete Guide to Timeouts in Node.js
 
-Description of the project.
+This repo contains various examples for learning and implementing timeouts in
+Node.js. The full tutorial is linked below.
 
-**Tutorial**: [Link to corresponding BetterStack tutorial]().
-
-![Screenshot or GIF of the application in action](screenshot.png).
+**Tutorial**: [Link to corresponding BetterStack tutorial](https://betterstack.com/community/guides/scaling-nodejs/nodejs-timeouts/).
 
 ## 🟢 Prerequisites
 
-A list of requirements and package versions that the reader needs to build and run the project.
+You must have Node.js and npm installed on your machine. This project was built against the following versions:
 
-- The first thing.
-- The second thing.
+- Node.js v18.1.0.
+- npm v8.6.0.
 
 ## 📦 Getting started
 
-A brief guide to setting up the project.
+- Clone this repo to your machine:
 
-- Do the first thing.
-- Do the next thing.
+```shell
+git clone https://github.com/betterstack-community/nodejs-timeouts
+```
+
+- `cd` into the project folder and run `npm install` to download dependencies.
+- Follow through with the [linked tutorial](https://betterstack.com/community/guides/scaling-nodejs/nodejs-timeouts/).
 
 ## ⚖ License
 
